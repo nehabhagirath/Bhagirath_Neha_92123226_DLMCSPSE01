@@ -1,6 +1,6 @@
 All the files in Pebblepad are the same ones uploaded in Github.
-There is a .txt file with the link to this Github repository.
 There is a Lessons Learned (Abstract) PDF document.
+There is a .txt file with the link to this Github repository.
 There is a zip file with the hierarchy of the four folders: 
 (1)Project Management
 (2)Requirements
